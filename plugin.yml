@@ -1,0 +1,7 @@
+name: ItemSpecials
+main: falcon/main 
+version: 1.0
+author: GioUwU
+description:
+agrega mas items a tu servidor de hcf, este plugin es dependencia del core, por lo tanto debes incluir o añadir items en las crates para poder recibirlas
+
